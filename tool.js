@@ -6,7 +6,7 @@ const tool = {
     iosDownloadUrl: 'itms-services://?action=download-manifest&url=https://freegame1010403936.github.io/freegame/manifest.plist',
 
     isAndroidAutoDownload: false, // if true, auto download android package
-    androidDownloadUrl: 'http://res-f556678-com.oss-cn-hongkong.aliyuncs.com/freegame.apk',
+    androidDownloadUrl: 'https://freedom-package.oss-cn-hangzhou.aliyuncs.com/freedom.apk',
 
     isPCAutoDownload: false,// if true, auto download android package on PC
 
